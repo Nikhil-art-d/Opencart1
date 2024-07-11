@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T10:42:12 IST" name="Suite" finished-at="2024-07-05T10:42:45 IST" duration-ms="33089">
+    <groups>
+      <group name="Regression">
+        <method signature="TC_001_AccountRegistrationTest.validate_acc_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@5d0bf09b]" name="validate_acc_registration" class="testCases.TC_001_AccountRegistrationTest"/>
+      </group> <!-- Regression -->
+      <group name="sanity">
+        <method signature="TC_002_LoginTest.Verify_loginTest()[pri:0, instance:testCases.TC_002_LoginTest@117159c0]" name="Verify_loginTest" class="testCases.TC_002_LoginTest"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_001_AccountRegistrationTest.validate_acc_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@5d0bf09b]" name="validate_acc_registration" class="testCases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_002_LoginTest.Verify_loginTest()[pri:0, instance:testCases.TC_002_LoginTest@117159c0]" name="Verify_loginTest" class="testCases.TC_002_LoginTest"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-07-05T10:42:12 IST" name="chromeTest" finished-at="2024-07-05T10:42:45 IST" duration-ms="33089">
+      <class name="testCases.TC_001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationTest@5d0bf09b]" started-at="2024-07-05T10:42:12 IST" name="setUp" finished-at="2024-07-05T10:42:26 IST" duration-ms="13818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Window]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_acc_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@5d0bf09b]" started-at="2024-07-05T10:42:26 IST" name="validate_acc_registration" finished-at="2024-07-05T10:42:34 IST" duration-ms="7978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_acc_registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@5d0bf09b]" started-at="2024-07-05T10:42:34 IST" name="tearDown" finished-at="2024-07-05T10:42:34 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AccountRegistrationTest -->
+      <class name="testCases.TC_002_LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@117159c0]" started-at="2024-07-05T10:42:34 IST" name="setUp" finished-at="2024-07-05T10:42:39 IST" duration-ms="4581" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Window]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Verify_loginTest()[pri:0, instance:testCases.TC_002_LoginTest@117159c0]" started-at="2024-07-05T10:42:39 IST" name="Verify_loginTest" finished-at="2024-07-05T10:42:44 IST" duration-ms="5001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@117159c0]" started-at="2024-07-05T10:42:44 IST" name="tearDown" finished-at="2024-07-05T10:42:45 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_LoginTest -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

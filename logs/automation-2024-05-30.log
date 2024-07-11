@@ -1,0 +1,47 @@
+10:56:49.375 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account
+10:56:50.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Register tab
+10:56:50.557 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding Data for Registring the Customer
+10:56:56.727 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Continues 
+10:56:56.867 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+10:56:56.868 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest  *********
+11:13:13.881 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:13:14.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account
+11:13:15.542 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Register tab
+11:13:15.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding Data for Registring the Customer
+11:13:20.929 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Continues 
+11:13:21.052 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected message 
+11:13:21.062 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest  *********
+11:14:37.188 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:14:37.368 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account
+11:14:38.971 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Register tab
+11:14:38.987 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding Data for Registring the Customer
+11:14:44.576 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Continues 
+11:14:44.765 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected message 
+11:14:44.775 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest  *********
+11:14:54.518 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:14:54.742 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account
+11:14:55.899 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Register tab
+11:14:55.903 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding Data for Registring the Customer
+11:15:00.658 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Continues 
+11:15:00.745 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected message 
+11:15:00.747 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest  *********
+11:19:08.470 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:19:08.470 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:19:08.751 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account
+11:19:08.874 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account
+11:19:11.644 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on Register tab
+11:19:11.656 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Provinding Data for Registring the Customer
+11:19:18.275 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on Continues 
+11:19:18.404 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected message 
+11:19:18.411 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest  *********
+11:19:24.774 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on Register tab
+11:19:24.784 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Provinding Data for Registring the Customer
+11:19:24.808 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+11:20:05.408 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:20:05.408 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:20:05.655 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account
+11:20:05.671 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account
+11:20:07.000 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on Register tab
+11:20:07.009 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Provinding Data for Registring the Customer
+11:20:07.009 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on Register tab
+11:20:07.017 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Provinding Data for Registring the Customer
